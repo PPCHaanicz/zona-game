@@ -1,1 +1,1 @@
-sample text 1222
+sample text 1
